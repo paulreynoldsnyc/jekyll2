@@ -19,7 +19,7 @@ html {
 
 body {
 background: $white;
-  font: 18px $merriweather;
+  font: 14px $merriweather;
   color: $darkGray;
 }
 
@@ -33,7 +33,6 @@ background: $white;
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
-  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -46,6 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+font-weight:800;
 -webkit-font-smoothing: antialiased;
 -moz-osx-font-smoothing: grayscale;
   a {
