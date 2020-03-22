@@ -1,5 +1,4 @@
 ---
-name: Jane Doe
-position: Developer
+name: Writing
 ---
-Jane has worked on Jekyll for the past *five years*.
+Insert writing descriptions here. 
