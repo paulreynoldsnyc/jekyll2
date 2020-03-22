@@ -12,7 +12,7 @@ description: Web Developer from Somewhere
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 collections:
-  - jobz
+  - job_descs
 
 # Includes an icon in the footer for each username you enter
 #footer-links:
