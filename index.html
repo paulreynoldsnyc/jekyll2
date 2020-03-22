@@ -5,7 +5,7 @@ layout: default
 <div class="jobs">
   
 {% for job_desc in site.job_descs %}
-  <h2>{{ job_desc.name }} - {{ job_desc.position }}</h2>
+  <h2>{{ job_desc.name }}</h2>
   <p>{{ job_desc.content | markdownify }}</p>
 {% endfor %}
   
